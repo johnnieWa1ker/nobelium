@@ -43,7 +43,7 @@ export default function Post (props) {
                 alt={BLOG.author}
                 width={24}
                 height={24}
-                src={`https://gravatar.com/avatar/${emailHash}`}
+                src={`https://pbs.twimg.com/profile_images/1645813284313104391/TDuX2YPn_200x200.jpg`}
                 className="rounded-full"
               />
               <p className="ml-2 md:block">{BLOG.author}</p>
