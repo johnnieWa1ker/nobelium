@@ -38,13 +38,13 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: '', // The repository of store comments
-      owner: '',
+      repo: 'https://github.com/johnnieWa1ker/nobelium', // The repository of store comments
+      owner: 'johnnieWa1ker',
       admin: [],
-      clientID: '',
-      clientSecret: '',
+      clientID: '11eadb3b41c3db9dd87c',
+      clientSecret: 'c22d1ab894f48caeb9d98bbaaaa6a4c8f70f1390',
       distractionFreeMode: false
     },
     utterancesConfig: {
