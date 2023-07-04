@@ -42,7 +42,7 @@ const BLOG = {
     gitalkConfig: {
       repo: 'https://github.com/johnnieWa1ker/nobelium', // The repository of store comments
       owner: 'johnnieWa1ker',
-      admin: [],
+      admin: ['johnnieWa1ker'],
       clientID: '11eadb3b41c3db9dd87c',
       clientSecret: 'c22d1ab894f48caeb9d98bbaaaa6a4c8f70f1390',
       distractionFreeMode: false
